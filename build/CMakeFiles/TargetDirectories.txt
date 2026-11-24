@@ -1,4 +1,0 @@
-C:/Users/Haidar/Desktop/New folder (4)/Breaking Bad/build/CMakeFiles/OpenGL.SharedModule.dir
-C:/Users/Haidar/Desktop/New folder (4)/Breaking Bad/build/CMakeFiles/GLProject.dir
-C:/Users/Haidar/Desktop/New folder (4)/Breaking Bad/build/CMakeFiles/edit_cache.dir
-C:/Users/Haidar/Desktop/New folder (4)/Breaking Bad/build/CMakeFiles/rebuild_cache.dir
